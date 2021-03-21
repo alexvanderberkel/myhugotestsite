@@ -1,0 +1,64 @@
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            |  9  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  0  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 14 ms
+Watching for changes in /tmp/mysite/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /tmp/mysite/config.toml, /tmp/mysite/themes/hugo-flex/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  2  
+  Static files     | 15  
+  Processed images |  4  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 110 ms
+Watching for changes in /tmp/mysite/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /tmp/mysite/config.toml, /tmp/mysite/themes/hugo-flex/config.yaml, /tmp/mysite/themes/hugo-shortcode-gallery/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  2  
+  Static files     | 15  
+  Processed images |  4  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 25 ms
+Watching for changes in /tmp/mysite/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /tmp/mysite/config.toml, /tmp/mysite/themes/hugo-flex/config.yaml, /tmp/mysite/themes/hugo-shortcode-gallery/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Error: "/tmp/mysite/config.toml:4:1": unmarshal failed: Near line 4 (last key parsed 'theme'): Array contains values of type 'Array' and 'String', but arrays must be homogeneous.
